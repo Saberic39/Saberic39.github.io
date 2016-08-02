@@ -8,8 +8,8 @@
   Height:300px;
   border-radius:50%;
   Background:linear-gradient(red, red,red,red,white,white,white, white);
-/*   overflow:hidden; */
-/*   animation:shake 10s infinite alternate; */
+  overflow:hidden; 
+   animation:shake 10s infinite alternate; 
 
 }
 @keyframes shake{
